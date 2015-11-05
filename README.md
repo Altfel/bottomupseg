@@ -1,2 +1,2 @@
 # bottomupseg
-bottom up segmentation of time series with polynomials 
+Methods to segment one dimensional time series in a bottom-up fashion with polynomials 
